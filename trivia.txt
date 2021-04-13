@@ -1,0 +1,42 @@
+question 1, no really just a test -there are 6 questions total. correct answers are 1,1,2,4,1,4
+a
+b
+c
+d
+1
+5
+What is the first question?
+apple
+beta
+gamma
+charlie
+1
+5
+What is the second question today?
+john
+mary
+betty
+joe
+2
+5
+How many questions are needed?
+one
+two
+three
+five
+4
+5
+What is the purpose of this exercise?
+to learn java
+to keep us busy
+to do fun stuff
+to drive us nuts
+1
+5
+This is the last question. Which question number is this?
+one
+two
+four
+six
+4
+5
